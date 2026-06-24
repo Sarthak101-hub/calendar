@@ -13,7 +13,7 @@ interface Post {
 const posts: Post[] = [
   {
     id: '1',
-    date: '2025-06-18',
+    date: '2026-06-18',
     title: 'I shipped Ajaia Docs. Here\'s what building it actually taught me.',
     tags: ['Full Stack', 'React', 'Supabase'],
     mood: '🚀',
@@ -27,7 +27,7 @@ The biggest lesson: real features are 20% implementation and 80% handling the ed
   },
   {
     id: '2',
-    date: '2025-06-10',
+    date: '2026-06-10',
     title: 'Supabase made auth feel like cheating — and that\'s the point',
     tags: ['Supabase', 'Auth', 'Backend'],
     mood: '💡',
@@ -41,7 +41,7 @@ It's not magic — it's Postgres under the hood and you can see every query in t
   },
   {
     id: '3',
-    date: '2025-06-02',
+    date: '2026-06-02',
     title: 'TipTap is the best thing I\'ve found for rich text in React',
     tags: ['React', 'Frontend', 'Editor'],
     mood: '✍️',
@@ -55,7 +55,7 @@ The gotcha I hit: TipTap's output is HTML by default. If you want to store it as
   },
   {
     id: '4',
-    date: '2025-05-25',
+    date: '2026-05-25',
     title: 'Deploying full-stack apps for free: Vercel + Render setup',
     tags: ['DevOps', 'Deployment', 'Node.js'],
     mood: '☁️',
@@ -71,7 +71,7 @@ One more thing: set all secrets as environment variables in both platforms. Neve
   },
   {
     id: '5',
-    date: '2025-05-15',
+    date: '2026-05-15',
     title: 'Building a finance tracker taught me what "state management" actually means',
     tags: ['React', 'Firebase', 'Frontend'],
     mood: '📊',

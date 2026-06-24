@@ -18,7 +18,7 @@ const entries = [
   {
     company: 'PM Shri Kendriya Vidyalaya O.E.F. Hazratpur',
     role: 'CBSE Class XII — Science Stream',
-    period: 'Completed 2025',
+    period: 'Completed 2026',
     location: 'Hazratpur, Uttar Pradesh',
     current: false,
     bullets: [

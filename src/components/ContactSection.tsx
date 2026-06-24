@@ -157,7 +157,7 @@ export default function ContactSection() {
           className="font-mono text-xs"
           style={{ color: 'rgba(225,224,204,0.25)' }}
         >
-          Built with React + TypeScript + Framer Motion + GSAP · © 2025 Sarthak Shrivastav
+          Built with React + TypeScript + Framer Motion + GSAP · © 2026 Sarthak Shrivastav
         </motion.p>
       </div>
     </section>

@@ -1,0 +1,95 @@
+- generic [ref=e3]:
+  - navigation:
+    - generic [ref=e4]:
+      - link "<S/>" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - link "Work" [ref=e7] [cursor=pointer]:
+        - /url: /work
+      - link "Tech" [ref=e8] [cursor=pointer]:
+        - /url: /tech
+      - link "Experience" [ref=e9] [cursor=pointer]:
+        - /url: /experience
+      - link "Blog" [ref=e10] [cursor=pointer]:
+        - /url: /blog
+      - link "Life" [ref=e11] [cursor=pointer]:
+        - /url: /life
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - paragraph [ref=e15]: // life
+        - heading "Beyond the terminal." [level=1] [ref=e16]
+        - paragraph [ref=e17]: the human behind the code.
+      - generic [ref=e19]:
+        - generic [ref=e20] [cursor=pointer]:
+          - img "Agra, UP" [ref=e21]
+          - generic [ref=e22]:
+            - paragraph [ref=e23]: Agra, UP
+            - paragraph [ref=e24]: home base
+        - generic [ref=e26] [cursor=pointer]:
+          - img "at the keyboard" [ref=e27]
+          - generic [ref=e28]:
+            - paragraph [ref=e29]: at the keyboard
+            - paragraph [ref=e30]: 2am session
+        - generic [ref=e32] [cursor=pointer]:
+          - img "first commit" [ref=e33]
+          - generic [ref=e34]:
+            - paragraph [ref=e35]: first commit
+            - paragraph [ref=e36]: the beginning
+        - generic [ref=e38] [cursor=pointer]:
+          - img "debugging mode" [ref=e39]
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: debugging mode
+            - paragraph [ref=e42]: the grind
+        - generic [ref=e44] [cursor=pointer]:
+          - img "learning docs" [ref=e45]
+          - generic [ref=e46]:
+            - paragraph [ref=e47]: learning docs
+            - paragraph [ref=e48]: always reading
+        - generic [ref=e50] [cursor=pointer]:
+          - img "the Taj" [ref=e51]
+          - generic [ref=e52]:
+            - paragraph [ref=e53]: the Taj
+            - paragraph [ref=e54]: my backyard
+      - generic [ref=e56]:
+        - paragraph [ref=e57]: // when not coding
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]: 🎮
+            - generic [ref=e61]: Gaming
+            - generic [ref=e62]: FPS & strategy
+          - generic [ref=e63]:
+            - generic [ref=e64]: ☕
+            - generic [ref=e65]: Coffee
+            - generic [ref=e66]: fuels the sessions
+          - generic [ref=e67]:
+            - generic [ref=e68]: 🎵
+            - generic [ref=e69]: Music
+            - generic [ref=e70]: lo-fi while coding
+          - generic [ref=e71]:
+            - generic [ref=e72]: 📚
+            - generic [ref=e73]: Reading
+            - generic [ref=e74]: docs + tech blogs
+          - generic [ref=e75]:
+            - generic [ref=e76]: 🏛️
+            - generic [ref=e77]: Agra
+            - generic [ref=e78]: Taj in the backyard
+          - generic [ref=e79]:
+            - generic [ref=e80]: 🌐
+            - generic [ref=e81]: Open Web
+            - generic [ref=e82]: building in public
+      - generic [ref=e83]:
+        - paragraph [ref=e84]: // things i believe
+        - generic [ref=e85]:
+          - blockquote [ref=e86]:
+            - paragraph [ref=e87]: "\"I don't follow tutorials. I read the docs, build something, break it, and understand why.\""
+          - blockquote [ref=e88]:
+            - paragraph [ref=e89]: "\"Every commit is a snapshot of where I was. The message is a note to my future self.\""
+          - blockquote [ref=e90]:
+            - paragraph [ref=e91]: "\"Being a beginner is a superpower — you have no bad habits yet.\""
+          - blockquote [ref=e92]:
+            - paragraph [ref=e93]: "\"Ship something broken rather than wait for perfect. Perfect never ships.\""
+          - blockquote [ref=e94]:
+            - paragraph [ref=e95]: "\"The best way to learn React is to build something you actually want to use.\""
+  - contentinfo [ref=e96]:
+    - generic [ref=e97]: © 2025 Sarthak Shrivastav
+    - generic [ref=e98]: Built with React + TypeScript + Framer Motion

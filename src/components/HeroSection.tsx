@@ -27,7 +27,7 @@ function useTypewriter(text: string, speed = 40, startDelay = 900) {
   return { displayed, done }
 }
 
-const MAIL = 'mailto:sankalpshrivastav2001@gmail.com'
+const MAIL = 'mailto:sarthakshrivastava4634@gmail.com'
 
 const pillButtons = [
   { label: 'Hire me', href: MAIL },
